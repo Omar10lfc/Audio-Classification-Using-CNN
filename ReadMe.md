@@ -52,6 +52,3 @@ This project demonstrates an end-to-end workflow for classifying urban sounds us
 ### 10. Conclusion & Next Steps
 - Summarizes the workflow and results.
 - Suggests improvements such as advanced architectures, transfer learning, and hyperparameter tuning.
-
-## Summarized Description
-This notebook delivers a comprehensive pipeline for urban sound classification using deep learning. It covers all stages from data exploration to model deployment, providing clear code, visualizations, and explanations. The approach leverages Mel spectrograms and a robust CNN architecture, achieving strong performance on the UrbanSound8K dataset. The workflow is modular and extensible, making it a solid foundation for further research or real-world applications in environmental sound recognition.
